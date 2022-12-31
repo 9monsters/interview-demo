@@ -1,8 +1,8 @@
-package com.nine.monsters.interview.demo.spi;
+package com.nine.monsters.interview.demo.base.spi;
 
+import com.nine.monsters.interview.demo.base.spi.Search;
 import org.junit.jupiter.api.Test;
 
-import java.util.Iterator;
 import java.util.ServiceLoader;
 
 //@SpringBootTest

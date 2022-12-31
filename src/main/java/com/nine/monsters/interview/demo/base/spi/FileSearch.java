@@ -1,4 +1,4 @@
-package com.nine.monsters.interview.demo.spi;
+package com.nine.monsters.interview.demo.base.spi;
 
 import lombok.extern.slf4j.Slf4j;
 
